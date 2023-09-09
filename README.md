@@ -11,5 +11,5 @@ Henrie, J.R.; Thomson, B.M.; Yungfleisch, A.A.; Kerr, M.; Leavitt, S.D. Characte
 ## Curriculum Vitae
 [My CV](PDFs/BrendenThomsonCV.pdf)
 
-### Contact Info
+# Contact Info
 [Contact Info](contact-info.html) 
