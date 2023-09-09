@@ -1,4 +1,4 @@
-![Image of Brenden Thomson](images/headshot.jpeg "Brenden Thomson") height=300px
+![Image of Brenden Thomson](images/headshot.jpeg "Brenden Thomson")
 
 ## About Me
 I am a MS student in the UConn EEB department interested in Bryophyte Systematics and Evolution
