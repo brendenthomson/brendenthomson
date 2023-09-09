@@ -1,5 +1,5 @@
 ---
-title: Contact Infogreghtrthtr
+title: Contact Info
 layout: default
 ---
 
