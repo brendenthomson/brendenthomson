@@ -16,6 +16,6 @@ Henrie, J.R.; Thomson, B.M.; Yungfleisch, A.A.; Kerr, M.; Leavitt, S.D. Characte
 [Contact Info](contact-info.html) 
 
  <div style="width:100%;">
-        <div style="float:left;width:30%; background:red;"><img src="images/headshot.jpeg" alt="Brenden Thomson" style="height:300px"></div>
-        <div style="float:none; background:yellow;"> text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text  </div>
+        <div style="float:left"><img src="images/headshot.jpeg" alt="Brenden Thomson" style="height:300px"></div>
+        <div style="float:none"> text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text  </div>
     </div>
