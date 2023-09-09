@@ -17,8 +17,8 @@ Henrie, J.R.; Thomson, B.M.; Yungfleisch, A.A.; Kerr, M.; Leavitt, S.D. Characte
 
  <div style="width:100%;">
         <div style="float:left"><img src="images/headshot.jpeg" alt="Brenden Thomson" style="height:300px"></div>
-        <div style="float:none"> 
+        <span style="float:none"> 
           ## About Me
 I am a MS student in the UConn EEB department interested in Bryophyte Systematics and Evolution
-        </div>
+        </span>
     </div>
