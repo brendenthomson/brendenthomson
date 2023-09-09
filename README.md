@@ -15,10 +15,10 @@ Henrie, J.R.; Thomson, B.M.; Yungfleisch, A.A.; Kerr, M.; Leavitt, S.D. Characte
 ## Contact Info
 [Contact Info](contact-info.html) 
 
- <div style="width:100%;">
-        <div style="float:left"><img src="images/headshot.jpeg" alt="Brenden Thomson" style="height:300px"></div>
+ <span style="width:100%;">
+        <span style="float:left"><img src="images/headshot.jpeg" alt="Brenden Thomson" style="height:300px"></span>
         <span style="float:none"> 
           ## About Me
 I am a MS student in the UConn EEB department interested in Bryophyte Systematics and Evolution
         </span>
-    </div>
+    </span>
