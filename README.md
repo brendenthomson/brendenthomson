@@ -1,5 +1,5 @@
 ![Image of Brenden Thomson](images/headshot.jpeg "Brenden Thomson")
-<b>hello</b> world
+<img src="images/headshot.jpeg" alt="Brenden Thomson" style="height:300px">
 
 ## About Me
 I am a MS student in the UConn EEB department interested in Bryophyte Systematics and Evolution
