@@ -1,4 +1,8 @@
 title: Brenden M Thomson
 Description: spaghetti
 
-
+header_pages:
+ - aboutme.md
+ - research.md
+ - myCV.md
+ - contact-info.md
