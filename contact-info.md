@@ -1,6 +1,6 @@
 ---
 title: Contact Info
-layout: default
+layout: page
 Permalink: /Contact Info/
 ---
 
