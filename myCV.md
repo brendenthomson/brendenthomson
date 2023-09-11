@@ -4,4 +4,6 @@ title: My CV
 permalink: /mycv/
 ---
 
-yada yada yada
+## Curriculum Vitae
+Here is a link to my current CV:
+[My CV](PDFs/BrendenThomsonCV.pdf)
