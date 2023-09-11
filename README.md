@@ -1,4 +1,4 @@
-![Image of Mosses] (images/IMG_3127.jpg "Mosses")
+![Image of Mosses](images/IMG_3127.jpg "Mosses")
 
 ![Image of Brenden Thomson](images/headshot.jpeg "Brenden Thomson")
 <img src="images/headshot.jpeg" alt="Brenden Thomson" style="height:300px">
