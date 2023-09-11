@@ -1,8 +1,9 @@
 title: Brenden M Thomson
 Description: moss gang
 
-theme: minima
+remote_theme: jekyll/minima
 
+minima:
   skin: dark
   
 header_pages:
