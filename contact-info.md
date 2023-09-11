@@ -1,6 +1,7 @@
 ---
 title: Contact Info
 layout: default
+Permalink: /Contact Info/
 ---
 
 Feel free to contact me at <brenden.thomson@uconn.edu>.
