@@ -9,5 +9,6 @@ minima:
 header_pages:
  - aboutme.md
  - research.md
+ - presentations.md
  - myCV.md
  - contact-info.md
