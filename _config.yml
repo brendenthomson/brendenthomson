@@ -1,6 +1,8 @@
 title: Brenden M Thomson
 Description: spaghetti
 
+theme: minima
+
 header_pages:
  - aboutme.md
  - research.md
