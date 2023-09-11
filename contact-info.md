@@ -4,6 +4,7 @@ layout: default
 Permalink: /Contact Info/
 ---
 
+# Contact Info
 Feel free to contact me at <brenden.thomson@uconn.edu>.
 
 Postal address: 
