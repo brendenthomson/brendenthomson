@@ -4,8 +4,8 @@ Description: moss gang
 theme: minima
 
 minima:
-skin: dark
-
+  skin: dark
+  
 header_pages:
  - aboutme.md
  - research.md
